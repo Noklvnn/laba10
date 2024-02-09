@@ -11,6 +11,7 @@ namespace ovnlaba10
         static void Main(string[] args)
         {
             Console.WriteLine("stonat' cowboy!");
+            Console.WriteLine("99% азартных игроков уходят с казино перед тем как выбить джекпот!");
         }
     }
 }
